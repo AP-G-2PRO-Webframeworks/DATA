@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Earth (C-137)",
+    "type": "Planet",
+    "dimension": "Dimension C-137"
+  },
+  {
+    "id": 2,
+    "name": "Abadango",
+    "type": "Cluster",
+    "dimension": "unknown"
+  },
+  {
+    "id": 3,
+    "name": "Citadel of Ricks",
+    "type": "Space station",
+    "dimension": "unknown"
+  },
+  {
+    "id": 4,
+    "name": "Worldender's lair",
+    "type": "Planet",
+    "dimension": "unknown"
+  },
+  {
+    "id": 5,
+    "name": "Anatomy Park",
+    "type": "Microverse",
+    "dimension": "Dimension C-137"
+  },
+  {
+    "id": 6,
+    "name": "Interdimensional Cable",
+    "type": "TV",
+    "dimension": "unknown"
+  },
+  {
+    "id": 7,
+    "name": "Immortality Field Resort",
+    "type": "Resort",
+    "dimension": "unknown"
+  },
+  {
+    "id": 8,
+    "name": "Post-Apocalyptic Earth",
+    "type": "Planet",
+    "dimension": "Post-Apocalyptic Dimension"
+  },
+  {
+    "id": 9,
+    "name": "Purge Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension"
+  },
+  {
+    "id": 10,
+    "name": "Venzenulon 7",
+    "type": "Planet",
+    "dimension": "unknown"
+  },
+  {
+    "id": 11,
+    "name": "Bepis 9",
+    "type": "Planet",
+    "dimension": "unknown"
+  },
+  {
+    "id": 12,
+    "name": "Cronenberg Earth",
+    "type": "Planet",
+    "dimension": "Cronenberg Dimension"
+  },
+  {
+    "id": 13,
+    "name": "Nuptia 4",
+    "type": "Planet",
+    "dimension": "unknown"
+  },
+  {
+    "id": 14,
+    "name": "Giant's Town",
+    "type": "Fantasy town",
+    "dimension": "Fantasy Dimension"
+  },
+  {
+    "id": 15,
+    "name": "Bird World",
+    "type": "Planet",
+    "dimension": "unknown"
+  },
+  {
+    "id": 16,
+    "name": "St. Gloopy Noops Hospital",
+    "type": "Space station",
+    "dimension": "unknown"
+  },
+  {
+    "id": 17,
+    "name": "Earth (5-126)",
+    "type": "Planet",
+    "dimension": "Dimension 5-126"
+  },
+  {
+    "id": 18,
+    "name": "Mr. Goldenfold's dream",
+    "type": "Dream",
+    "dimension": "Dimension C-137"
+  },
+  {
+    "id": 19,
+    "name": "Gromflom Prime",
+    "type": "Planet",
+    "dimension": "Replacement Dimension"
+  },
+  {
+    "id": 20,
+    "name": "Earth (Replacement Dimension)",
+    "type": "Planet",
+    "dimension": "Replacement Dimension"
+  }
+]
